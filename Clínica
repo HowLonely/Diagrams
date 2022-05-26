@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T18:53:57.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="qwPAZ1kcywnjt4PWCusa" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T18:55:28.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="n-nyWU610MPML-aluO-9" version="18.1.2" type="github">
   <diagram id="iS0SyIFbfsoAaOTEKyvB" name="Page-1">
     <mxGraphModel dx="584" dy="-64" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry y="126" width="220" height="72" as="geometry" />
         </mxCell>
         <mxCell id="VrzSAPqwYEhlrVGZWeiV-44" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;Diagrama de clases&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="610" y="1200" width="170" height="20" as="geometry" />
+          <mxGeometry x="637" y="1190" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VrzSAPqwYEhlrVGZWeiV-46" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;SistemaMedico&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ingresarMedico (String rut, String nombre,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;String registroMedico, String especialidad)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ingresarPaciente (String rut, String nombre)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ asociarDiagnostico (String diagnostico, String rutPaciente)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ asociarMedico (String rutPaciente, String rutMedico)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ obtenerDatosMedPac (String rutPaciente): String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ obtenerDatosMed (String rutMedico): String&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="1169" width="300" height="171" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="1030" y="1568" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iCAl8SFEUD9lexZXDHXw-1" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;Modelo del dominio&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="610" y="910" width="170" height="20" as="geometry" />
+          <mxGeometry x="650" y="910" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VrzSAPqwYEhlrVGZWeiV-29" value="&lt;b&gt;Atiende&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="875" y="1003" width="60" height="20" as="geometry" />
