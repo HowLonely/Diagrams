@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T19:36:25.123Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="bsmPyDqDvSrrPqlFuMsn" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T19:39:38.708Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="NSt8mqJf8wB0AD3Be2hQ" version="17.5.0" type="github">
   <diagram id="2lJbhXjDwRMvB29tp3XN" name="Page-1">
     <mxGraphModel dx="804" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
           <mxGeometry x="70" y="730" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IhTXlojrTej-_SCmVu4e-13" value="Ceal" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="130" y="830" width="160" height="152" as="geometry" />
+          <mxGeometry x="130" y="810" width="160" height="152" as="geometry" />
         </mxCell>
         <mxCell id="IhTXlojrTej-_SCmVu4e-14" value="- efectivo: int&#xa;- debito: int&#xa;-productoC: listaProcutosC&#xa;-productoB: listaProductoB&#xa;-venta: listaVenta" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=26;" vertex="1" parent="IhTXlojrTej-_SCmVu4e-13">
           <mxGeometry y="26" width="160" height="92" as="geometry" />
